@@ -1,1 +1,1 @@
-# VitorJord-o_GiovannaGarbacio_FinalProject_AA_RR_2024
+# VitorJordao_GiovannaGarbacio_FinalProject_AA_RR_2024
