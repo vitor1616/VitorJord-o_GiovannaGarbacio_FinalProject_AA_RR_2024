@@ -1,1 +1,1 @@
-# VitorJordao_GiovannaGarbacio_FinalProject_AA_RR_2024
+> Projeto da materia de analise de algoritimos
