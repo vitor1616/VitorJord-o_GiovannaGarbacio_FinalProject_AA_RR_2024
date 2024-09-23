@@ -9,5 +9,5 @@ Giovanna Mendes Garbácio 2021000712
   maximização do número de passageiros e minimização do tempo de rota.
 - Apresentar uma análise sobre os resultados encontrados com os algoritimos.
 
-Devido ao tamanho do artigo, não foi possivel fazer o upload no github, por isso foi posto no drive, segue o link abaixo:
+Devido ao tamanho dos arquivos, não foi possivel fazer o upload no github, por isso foi posto no drive, segue o link abaixo:
 - https://drive.google.com/file/d/1GmV2061WRlb2x7nmpLR9fZVYjcnMV-x7/view?usp=sharing
