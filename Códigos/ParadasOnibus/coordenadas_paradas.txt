@@ -1,0 +1,134 @@
+2.8029404, -60.7277548, R. Ametista, 631 - J�quei Clube, Boa Vista, Roraima
+2.80747585, -60.72679632247547, Escola Estadual Ant�nio Carlos Da Silva Natalino, Boa Vista, Roraima
+2.8076551, -60.7165977, Rua Jos� Francisco 745, Boa Vista, Roraima
+2.8122925, -60.730879, Rua Raimundo Penafort, 1549, Boa Vista, Roraima
+2.8139288999999996, -60.71281136409628, Escola Estadual Alcides Rodrigues Santos, Boa Vista, Roraima
+2.8122925, -60.730879, Rua Raimundo Penafort, 475, Boa Vista, Roraima
+2.8122925, -60.730879, Rua Raimundo Penafort, 177, Boa Vista, Roraima
+2.8078478, -60.6958205, Via das Flores, 7042 - Pricum�, Boa Vista, Roraima
+2.8078478, -60.6958205, Via Das Flores, 1959, Boa Vista, Roraima
+2.8078478, -60.6958205, Via das Flores, 1614 - Pricum�, Boa Vista, Roraima
+2.81436055, -60.694878244317536, Instituto Federal De Roraima - Campus Boa Vista, Boa Vista, Roraima
+2.8174854, -60.6819317, Av. Glaycon de Paiva, 1778 - Mecejana, Boa Vista, Roraima
+2.8153301, -60.6856498, Rua Pacaraima, Boa Vista, Roraima
+2.7968696, -60.6985426, Posto Br, Boa Vista, Roraima
+2.81973105, -60.674441419652624, F�rum Advogado Sobral Pinto, Boa Vista, Roraima
+2.8141335, -60.6699525, Terminal Centro, Boa Vista, Roraima
+2.8087465, -60.7370751, Rua Silo 153, Boa Vista, Roraima
+2.807079, -60.74152092813229, Parque Municipal Germano Augusto Sampaio, Boa Vista, Roraima
+2.80009945, -60.73577554438218, Vila Ol�mpica, Boa Vista, Roraima
+2.7969545, -60.7416449, Rua Pedro Aldemar Bantim, 991, Boa Vista, Roraima
+2.8129507, -60.7503488, Rua Jos� Renato Hadad, 258, Boa Vista, Roraima
+2.7981208, -60.74481, Rua Izidio Galdino Da Silva, 1300, Boa Vista, Roraima
+2.8033573, -60.7509883, Av. Abel Monteiro Reis, Boa Vista, Roraima
+2.8093057, -60.7321246, Rua Doutor Rubem Lima Filho, 155, Boa Vista, Roraima
+2.8093057, -60.7321246, Rua Doutor Rubem Lima Filho, 1, Boa Vista, Roraima
+2.8129847, -60.7191169, R. Raimundo Penafort, 2331 - Asa Branca, Boa Vista, Roraima
+2.80927685, -60.73201419179291, Pra�a Do Cambar�, Boa Vista, Roraima
+2.8129847, -60.7191169, R. Raimundo Penafort, 1549 - Asa Branca, Boa Vista, Roraima
+2.8139288999999996, -60.71281136409628, Escola Estadual Alcides Rodrigues Santos, Boa Vista, Roraima
+2.8122925, -60.730879, Rua Raimundo Penafort, 475, Boa Vista, Roraima
+2.8122925, -60.730879, Rua Raimundo Penafort, 177, Boa Vista, Roraima
+2.8106427, -60.7029048, R. das Extremosas, 312 - Pricum�, Boa Vista, Roraima
+2.8078478, -60.6958205, Via Das Flores, 1959, Boa Vista, Roraima
+2.8078478, -60.6958205, Via das Flores, 1614 - Pricum�, Boa Vista - Roraima
+2.81436055, -60.694878244317536, Instituto Federal De Roraima - Campus Boa Vista , Boa Vista, Roraima
+2.8174854, -60.6819317, Av. Glaycon de Paiva, 1778 - Mecejana, Boa Vista, Roraima
+2.8159278, -60.68313791849769, Teatro Municipal, Boa Vista, Roraima
+2.8068867, -60.6738615, Av. Presidente Castelo Branco, 1899-1999, Boa Vista, Roraima
+2.8140236, -60.6774341, Av. Nossa Senhora Da Consolata, 2281, Boa Vista, Roraima
+2.8141335, -60.6699525, Terminal Centro, Boa Vista, Roraima
+2.8236961999999997, -60.67126461287393, Hospital Coronel Mota, Boa Vista, Roraima
+2.8553636, -60.6633064, Rua Severino Soares De Freitas, 2670, Boa Vista, Roraima
+2.8631332, -60.6674803, Rua Guariguara, 797, Boa Vista, Roraima
+2.8427543, -60.6536315, Av. Ville Roy, 2670, Ca�ari, Boa Vista, Roraima
+2.8437764000000003, -60.66735640288135, Pra�a Do Mirandinha, Boa Vista, Roraima
+2.8134896, -60.679171, Av. Ville Roy, 3372, Boa Vista, Roraima
+2.8134896, -60.679171, Av. Ville Roy, 3642, Boa Vista, Roraima
+2.8134896, -60.679171, Avenida Ville Roy, 4213, Boa Vista, Roraima
+2.8273501, -60.6773971, Av. Maj. Williams, 1018 - S�o Francisco, Boa Vista, Roraima
+2.8134896, -60.679171, Av. Ville Roy, 5492, Boa Vista, Roraima
+2.8141335, -60.6699525, Terminal Centro, Boa Vista, Roraima
+2.8264013, -60.6782966, Av. Cap. Ene Garc�s - Centro, Boa Vista, Roraima
+2.82152585, -60.675497153075284, Sesc Roraima, Boa Vista, Roraima
+2.8253581, -60.7416792, Av. M�rio Homem De Melo, 514, Boa Vista, Roraima
+2.8253581, -60.7416792, Avenida M�rio Homem De Melo, Boa Vista, Roraima
+2.8221645, -60.6918832, Av. M�rio Homem De Melo, 1182, Boa Vista, Roraima
+2.8221645, -60.6918832, Av. M�rio Homem De Melo, 1540, Boa Vista, Roraima
+2.8200301, -60.6915998, Rua Br�s De Aguiar, Boa Vista, Roraima
+2.8221645, -60.6918832, Avenida M�rio Homem De Melo, 2310, Boa Vista, Roraima
+2.8253581, -60.7416792, Av. M�rio Homem De Melo, 2814, Boa Vista, Roraima
+2.8221645, -60.6918832, Av. M�rio Homem De Melo, 3326, Boa Vista, Roraima
+2.8221645, -60.6918832, Av. M�rio Homem De Melo, 3604, Boa Vista, Roraima
+2.8221645, -60.6918832, Av. M�rio Homem De Melo, 3980, Boa Vista, Roraima
+2.8233726, -60.71560345641413, Escola Estadual Vov� Julia, Boa Vista, Roraima
+2.8319491, -60.7206692, Av. Nossa Senhora De Nazar�, Boa Vista, Roraima
+2.8258015, -60.72585076891043, Pra�a Man� Garrincha, Boa Vista, Roraima
+2.8307465, -60.7276288, Av. S�o Sebasti�o 1439, Boa Vista, Roraima
+2.8199746, -60.6924883, Av. General Ata�de Teive, 5528, Boa Vista, Roraima
+2.8199746, -60.6924883, Av. General Ata�de Teive, 6204, Boa Vista, Roraima
+2.8155881, -60.7360159, Rua Betel, 701, Boa Vista, Roraima
+2.8049965, -60.7481423, Rua Laura Pinheiro Maia, 1695, Boa Vista, Roraima
+2.8049965, -60.7481423, Rua Laura Pinheiro Maia, 1299, Boa Vista, Roraima
+2.7981208, -60.74481, Rua Izidio Galdino Da Silva, 363, Boa Vista, Roraima
+2.7981208, -60.74481, Rua Izidio Galdino Da Silva, 712, Boa Vista, Roraima
+2.7981208, -60.74481, Rua Izidio Galdino Da Silva, 1016, Boa Vista, Roraima
+2.7981208, -60.74481, Rua Izidio Galdino Da Silva, 1300, Boa Vista, Roraima
+2.7981208, -60.74481, Rua Izidio Galdino Da Silva, 1962, Boa Vista, Roraima
+2.8582791, -60.6664597, R. Severino Soares de Freitas, 1685, Paraviana, Boa Vista, Roraima
+2.8204522, -60.6703662, Avenida Amazonas 507, Boa Vista, Roraima
+2.8214048, -60.6737932, Pra�a do Centro C�vico, 974, Centro, Boa Vista, Roraima
+2.8224438, -60.672304, Av. Capit�o J�lio Bezerra, 2409, Boa Vista, Roraima
+2.8370422, -60.7128036, Av. Jo�o Alencar, 2000, Boa Vista, Roraima
+2.8224438, -60.672304, Av. Capit�o J�lio Bezerra, 1013, Boa Vista, Roraima
+2.8211079, -60.665136, Rua Bar�o Do Rio Branco, 150, Boa Vista, Roraima
+2.8362039, -60.6903889, Av. Cap. Ene Garc�s, 2731, Aeroporto, Boa Vista, Roraima
+2.8264013, -60.6782966, Av. Cap. Ene Garc�s, 02, Centro, Boa Vista, Roraima
+2.816198, -60.6909261, R. Jo�o Barbosa, 143, Mecejana, Boa Vista, Roraima
+2.8214796, -60.6806584, Av. M�rio Homem de Melo, 514, Centro, Boa Vista, Roraima
+2.8214796, -60.6806584, Av. M�rio Homem de Melo, 1183, Mecejana, Boa Vista, Roraima
+2.8221645, -60.6918832, Av. M�rio Homem De Melo, 1540, Boa Vista, Roraima
+2.8200301, -60.6915998, Rua Br�s De Aguiar, 200, Boa Vista, Roraima
+2.8214796, -60.6806584, Av. M�rio Homem de Melo, 2310, Mecejana, Boa Vista, Roraima
+2.8253581, -60.7416792, Av. M�rio Homem De Melo, 2814, Boa Vista, Roraima
+2.8221645, -60.6918832, Av. M�rio Homem De Melo, 3326, Boa Vista, Roraima
+2.8221645, -60.6918832, Av. M�rio Homem De Melo, 3604, Boa Vista, Roraima
+2.8221645, -60.6918832, Av. M�rio Homem De Melo, 3980, Boa Vista, Roraima
+2.8233726, -60.71560345641413, Av. M�rio Homem de Melo, 4665, Caimb�, Boa Vista, Roraima
+2.8290799, -60.7208573, Av. Nossa Senhora De Nazar�, 1200, Boa Vista, Roraima
+2.8243549, -60.7260525, Av. M�rio Homem de Melo, 5692, Tancredo Neves, Boa Vista, Roraima
+2.8307465, -60.7276288, Av. S�o Sebasti�o, 1439, Tancredo Neves, Boa Vista, Roraima
+2.8199746, -60.6924883, Av. General Ata�de Teive, 5528, Boa Vista, Roraima
+2.8168118, -60.7413372, Av. Gen. Ata�de Teive, 6204, Dr. Silvio Leite, Boa Vista, Roraima
+2.8086761, -60.737847, Rua Si�o, 789, Boa Vista, Roraima
+2.8199746, -60.6924883, Av. General Ata�de Teive, 6868, Boa Vista, Roraima
+2.8199746, -60.6924883, Av. General Ata�de Teive, 7174, Boa Vista, Roraima
+2.8165644, -60.745735, Av. General Ata�de Teive, 7624, Boa Vista, Roraima
+2.8199746, -60.6924883, Av. General Ata�de Teive, 8998 , Boa Vista, Roraima
+2.8553636, -60.6633064, Rua Severino Soares De Freitas, 2670, Boa Vista, Roraima
+2.8631332, -60.6674803, Rua Guariguara, 797, Boa Vista, Roraima
+2.8427543, -60.6536315, Av. Ville Roy, 1544, Ca�ari, Boa Vista, Roraima
+2.8134896, -60.679171, Av. Ville Roy, 19412, Boa Vista, Roraima
+2.8620426, -60.6383398, Av. Ville Roy, 2869, Ca�ari, Boa Vista Roraima
+2.8430557, -60.6576928, R. da Tangerineira, 440 Ca�ari, Boa Vista, Roraima
+2.8134896, -60.679171, Av. Ville Roy, 3372, Boa Vista, Roraima
+2.8134896, -60.679171, Av. Ville Roy, 3642, Boa Vista, Roraima
+2.8134896, -60.679171, Avenida Ville Roy, 4213, Boa Vista, Roraima
+2.8282038, -60.6634381, Av. Santos Dumont, 760, S�o Pedro, Boa Vista, Roraima
+2.8282038, -60.6634381, Av. Santos Dumont - S�o Pedro, Boa Vista, Roraima
+2.8273501, -60.6773971, Av. Maj. Williams, 1018, S�o Francisco, Boa Vista, Roraima
+2.8134896, -60.679171, Av. Ville Roy, 5492, Boa Vista, Roraima
+2.8141335, -60.6699525, Terminal Centro, Boa Vista, Roraima
+2.8181725, -60.6753064, Av. Ville Roy, 7806, Boa Vista, Roraima
+2.8134896, -60.679171, Av. Ville Roy, 8336, Boa Vista, Roraima
+2.8049357, -60.6880194, Rodovi�ria Internacional De Boa Vista, Boa Vista, Roraima
+2.8075805, -60.6912864, Av. Brasil, 175, Pricum�, Boa Vista, Roraima
+2.79889905, -60.70545314312825, Escola Estadual Carlos Casadio, Boa Vista, Roraima
+2.7962544, -60.6983985, Av. Centen�rio, 1268, Boa Vista, Roraima
+2.8033428, -60.7187425, R. Raio Solar, J�quei Clube, Boa Vista, Roraima
+2.7981208, -60.74481, Rua Izidio Galdino Da Silva, 363, Boa Vista, Roraima
+2.7981208, -60.74481, Rua Izidio Galdino Da Silva, 712, Boa Vista, Roraima
+2.7981208, -60.74481, Rua Izidio Galdino Da Silva, 1016, Boa Vista, Roraima
+2.7981208, -60.74481, Rua Izidio Galdino Da Silva, 1300, Boa Vista, Roraima
+2.7981208, -60.74481, Rua Izidio Galdino Da Silva, 1962, Boa Vista, Roraima
+2.8582036, -60.658262, Bosque dos Papagaios, Boa Vista, Roraima
