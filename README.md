@@ -47,4 +47,7 @@ Códigos
 
 ## RESULTADOS
 
-![plot](.Rotas Criadas/Rota3/grafo_rota_simulated_annealing3.png)
+Obtivemos diversas rotas (que estão salvas em Rotas Criada), dentre elas destacamos a Rota3, que é a mais curta em distância, a Rota12 qy ebusca o maior número de pessoas e a Rota5, que julgamos ser a mais equilibrada em relação aos dois fatores.
+
+Rota3
+https://github.com/vitor1616/VitorJordao_GiovannaGarbacio_FinalProject_AA_RR_2024/blob/main/Rotas%20Criadas/Rota3/grafo_rota_simulated_annealing3.png
