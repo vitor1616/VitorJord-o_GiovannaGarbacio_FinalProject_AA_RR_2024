@@ -1,0 +1,12 @@
+Rota 1: Custo total: 13130.303600000003, Distância total: 32866.259000000005, Peso total: 27.0
+Rota 2: Custo total: 13872.246400000002, Distância total: 34725.616, Peso total: 30.0
+Rota 3: Custo total: 11529.8336, Distância total: 28848.584, Peso total: 16.0
+Rota 4: Custo total: 15402.507199999998, Distância total: 38545.268, Peso total: 26.0
+Rota 5: Custo total: 13244.302000000001, Distância total: 33142.255000000005, Peso total: 21.0
+Rota 6: Custo total: 16610.650800000003, Distância total: 41565.627, Peso total: 26.0
+Rota 7: Custo total: 12208.192000000001, Distância total: 30547.48, Peso total: 18.0
+Rota 8: Custo total: 12494.8272, Distância total: 31261.068, Peso total: 16.0
+Rota 9: Custo total: 13080.5956, Distância total: 32728.488999999998, Peso total: 18.0
+Rota 10: Custo total: 13330.912400000001, Distância total: 33352.781, Peso total: 17.0
+Rota 11: Custo total: 12919.815200000003, Distância total: 32322.038000000004, Peso total: 15.0
+Rota 12: Custo total: 12976.756, Distância total: 32495.89, Peso total: 36.0
